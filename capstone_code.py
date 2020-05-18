@@ -1,3 +1,3 @@
 import pandas as pd
-import Numpy as np
+import numpy as np
 print ("hello capstone course")
